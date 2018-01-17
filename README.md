@@ -30,7 +30,7 @@ npm install
 
 ## Configuration
 
-#### Application configuration options
+### Application configuration options
 
 The `.env` file contains the app configuration options:
 
