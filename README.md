@@ -74,13 +74,28 @@ To run the generator against the sample texts, type `node .` or `node index.js` 
 ## Sample output
 
 ```
-So once more expand in comparative security upon the moody seamen, the iron lips. Mark ye, be forewarned; Ahab’s above the rest of the banded whalemen in hunting the White Whale  #melville #mashup #ahab #mobydick
+So once more expand in comparative security upon the moody seamen,
+the iron lips.
+Mark ye, be forewarned; Ahab’s above the rest of the banded whalemen in hunting the White Whale  
+#melville #mashup #ahab #mobydick
 ```
 
 ```
-Growing, and, as the question was evidently meant for her. IN the well,' Alice said to Alice, they all crowded round it, panting, and asking, 'But who has won?.  #alice #mashup #alicesadventuresinwonderland
+Growing, and, as the question was evidently meant for her.
+IN the well,' Alice said to Alice, they all crowded round it,
+panting, and asking, 'But who has won?.  
+#alice #mashup #alicesadventuresinwonderland
 ```
 
 ```
-How it is, parts of the whale, so named I suppose you would not apply. Suspended over the same dark canoes, and that still remains a moot point whether a whale alongside must be  #melville #mashup #ahab #mobydick
+How it is, parts of the whale, so named I suppose you would not apply.
+Suspended over the same dark canoes,
+and that still remains a moot point whether a whale alongside must be
+#melville #mashup #ahab #mobydick
+```
+
+```
+'Why, I do wonder what they WILL do next! An invitation for the Dormouse,' thought Alice;
+but she stopped hastily, for the next moment a shower of saucepans, plates, and dishes.  
+#alice #mashup #alicesadventuresinwonderland
 ```
