@@ -1,0 +1,16 @@
+{
+  "name": "markov-tweet-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "libmarkov": "^1.1.3"
+  }
+}
