@@ -48,7 +48,7 @@ If `TWEET_HASHTAGS` is true, then the hashtags from the text configuration optio
 
 ### Text configuration options
 
-Place texts in the source folder as specific in the configuration options above. Then, create an `index.js` object and export a `sources` object:
+Place texts in the source folder as specific in the configuration options above. Then, create an `index.js` file in your source directory and export a `sources` object:
 
 ```
 exports.sources = {
