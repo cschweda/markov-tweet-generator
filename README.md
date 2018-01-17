@@ -2,9 +2,7 @@
 
 Node wrapper for [https://github.com/jaxgeller/libmarkov](https://github.com/jaxgeller/libmarkov).
 
-This will generate a tweet-sized sequence of Markov sentences from a large text. You can include any number of texts, and the program will randomly select a single one.
-
-Please refer to the configuration options below for more information.
+This will generate a tweet-sized sequence of Markov sentences from any large text file. You can include any number of texts. The application will randomly select one and then generate a sentence sequence.
 
 I've included _Moby Dick_ and _Alice in Wonderland_ as samples. The texts are taken from [Project Gutenberg](http://www.gutenberg.org/). I removed the copyright headers and licensing footers, but all the rights and restrictions of a Gutenberg book still apply.
 
