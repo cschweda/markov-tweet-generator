@@ -65,7 +65,7 @@ exports.sources = {
 
 This object should contain unique ids ('aaiw' and 'md', in this case), a `title`, a `filename` for the text folder, and an array of `hashtags`.
 
-## Run the generator
+## Running the generator
 
 To run the generator against the sample texts, type `node .` or `node index.js` in the root directory (or type `npm run dev`).
 
